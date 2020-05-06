@@ -1,1 +1,2 @@
-FSWD Course. Working with JavaScript
+# FSWD JS
+ JavaScript
